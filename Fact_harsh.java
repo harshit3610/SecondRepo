@@ -1,4 +1,4 @@
-class Factorial{
+class FactorialHarsh{
     public Factorial(int num){
         System.out.println("Factorial of "+num+factorial(num));
     }
