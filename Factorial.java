@@ -10,9 +10,9 @@ class Factorial{
     {
         for(int i=1;i<val;i++)
         {
-            fact=fact*i;;
+            fact=fact*i;
+            
         }
-
     }
     public static void main(String args[]){
         Factorial ff=new Factorial(4);
