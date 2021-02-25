@@ -7,5 +7,6 @@ class Factorial{
      }    
      System.out.println("Factorial is: "+fact);  
      System.out.println("");  
+     
     }  
    }  
