@@ -7,9 +7,8 @@ class Demo {
         return n*factorial(n-1); 
     } 
 }
-class RutujaFact{
-    
-    
+class RutujaFact
+{    
     public static void main(String args[]){
     
         System.out.println("Hello, World!");
